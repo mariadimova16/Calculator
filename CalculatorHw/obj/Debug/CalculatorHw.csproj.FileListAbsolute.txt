@@ -1,0 +1,9 @@
+C:\Users\Teo PC\Desktop\Calculatorr\CalculatorHw\CalculatorHw\bin\Debug\CalculatorHw.exe.config
+C:\Users\Teo PC\Desktop\Calculatorr\CalculatorHw\CalculatorHw\bin\Debug\CalculatorHw.exe
+C:\Users\Teo PC\Desktop\Calculatorr\CalculatorHw\CalculatorHw\bin\Debug\CalculatorHw.pdb
+C:\Users\Teo PC\Desktop\Calculatorr\CalculatorHw\CalculatorHw\obj\Debug\CalculatorHw.csprojAssemblyReference.cache
+C:\Users\Teo PC\Desktop\Calculatorr\CalculatorHw\CalculatorHw\obj\Debug\CalculatorHw.Form1.resources
+C:\Users\Teo PC\Desktop\Calculatorr\CalculatorHw\CalculatorHw\obj\Debug\CalculatorHw.csproj.GenerateResource.cache
+C:\Users\Teo PC\Desktop\Calculatorr\CalculatorHw\CalculatorHw\obj\Debug\CalculatorHw.csproj.CoreCompileInputs.cache
+C:\Users\Teo PC\Desktop\Calculatorr\CalculatorHw\CalculatorHw\obj\Debug\CalculatorHw.exe
+C:\Users\Teo PC\Desktop\Calculatorr\CalculatorHw\CalculatorHw\obj\Debug\CalculatorHw.pdb
